@@ -1,8 +1,8 @@
-title: John Smith
+title: Chungmin Kim
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+author: Chungmin Kim
+logo: /franticcoder.github.io/static/img/avatar.png
+github: https://github.com/franticcoder
 about: Freelance developer
 
 baseurl: ""
